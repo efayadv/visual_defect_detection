@@ -1,0 +1,13 @@
+patchcore_env/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.h5
+*.onnx
+data/
+capsule/
