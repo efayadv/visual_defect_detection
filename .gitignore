@@ -11,3 +11,5 @@ __pycache__/
 *.onnx
 data/
 capsule/
+memory_bank.npz
+results/
